@@ -1,13 +1,13 @@
 <p align="center">
-  <strong>EU First<span>.ai</span></strong>
+  <strong>EU First</strong>
 </p>
 
 <h3 align="center">The open-source directory of EU-sovereign AI tools</h3>
 
 <p align="center">
-  Every tool scored on data sovereignty, GDPR compliance, and AI Act readiness.<br>
-  Built in the EU. Hosted in the EU. Governed by EU law.<br><br>
-  <a href="https://eufirst.ai">Website</a> · <a href="https://eufirst.ai/ai-act">EU AI Act Hub</a> · <a href="https://eufirst.ai/methodology">Scoring Methodology</a> · <a href="https://reddit.com/r/eufirst">Community</a>
+  A curated list of AI tools built, hosted, and governed within the EU.<br>
+  Verified for origin. Organized by category. Community-maintained.<br><br>
+  <a href="https://reddit.com/r/eufirst">r/eufirst</a> · <a href="https://reddit.com/r/buyeu">r/buyeu</a> · <a href="https://reddit.com/r/eufounders">r/eufounders</a>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ US cloud providers hold **85%** of the European cloud market. Over **74%** of Eu
 
 The **EU AI Act** enforcement begins **August 2, 2026**. European companies adopting AI need to know which tools are built, hosted, and governed within EU jurisdiction — not just which ones claim GDPR compliance on a landing page.
 
-This list brings those tools together in one place. Every entry is verified for EU origin. The full scored directory with detailed reviews lives at [eufirst.ai](https://eufirst.ai).
+This list brings those tools together in one place. Every entry is verified for EU origin.
 
 ---
 
@@ -310,10 +310,6 @@ Run AI on your own EU infrastructure for maximum sovereignty. Combine these with
 - [AI Act Explorer](https://artificialintelligenceact.eu/) — Searchable text with independent analysis
 - [GPAI Code of Practice](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — Voluntary compliance framework for GPAI providers
 - [EU AI Act Implementation Timeline](https://artificialintelligenceact.eu/implementation-timeline/) — All milestones
-
-### Guides
-
-- [EU First — AI Act Hub](https://eufirst.ai/ai-act) — Plain-language compliance guide for practitioners
 - [IAPP Compliance Matrix](https://iapp.org/resources/article/eu-ai-act-compliance-matrix) — Requirements overview by role
 
 ---
@@ -322,7 +318,7 @@ Run AI on your own EU infrastructure for maximum sovereignty. Combine these with
 
 ### Key Reports
 
-- [Atlantic Council: Digital Sovereignty — Europe's Declaration of Independence](https://www.atlanticcouncil.org/in-depth-research-reports/report/digital-sovereignty-europes-declaration-of-independence/) (Feb 2026) — The most comprehensive analysis of Europe's sovereignty movement
+- [Atlantic Council: Digital Sovereignty — Europe's Declaration of Independence](https://www.atlanticcouncil.org/in-depth-research-reports/report/digital-sovereignty-europes-declaration-of-independence/) (Feb 2026)
 - [Bertelsmann Stiftung: EuroStack Report](https://www.bertelsmann-stiftung.de/en/our-projects/reframetech-algorithmen-fuers-gemeinwohl/project-news/eurostack-a-european-alternative-for-digital-sovereignty) — €300B proposal for EU digital infrastructure
 - [Wire: State of Digital Sovereignty in Europe 2025](https://wire.com/en/blog/state-digital-sovereignty-europe) — Survey of 270+ EU tech and policy leaders
 - [Berlin Declaration for European Digital Sovereignty](https://data.consilium.europa.eu/) (Nov 2025) — Signed by all 27 EU member states
@@ -359,11 +355,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines, inclusion criter
 
 ---
 
-## About EU First
+## About
 
-This list is maintained by **[EU First](https://eufirst.ai)** — an independent project building the scored directory of EU-sovereign AI tools.
+This list is maintained as an independent, community-driven project to help Europeans find AI tools they can trust.
 
-We rate every tool on a **5-criteria Sovereignty Score** (0–10):
+We evaluate tools on **5 sovereignty criteria:**
 
 | Criterion | What we check |
 |-----------|---------------|
@@ -372,10 +368,6 @@ We rate every tool on a **5-criteria Sovereignty Score** (0–10):
 | Legal Jurisdiction | Is the service governed by EU law? |
 | GDPR Compliance | Is there audited/certified GDPR compliance? |
 | AI Act Readiness | Is the company actively preparing for AI Act compliance? |
-
-For full scored reviews with pricing, strengths, limitations, and AI Act relevance: **[eufirst.ai/directory](https://eufirst.ai/directory)**
-
-For our scoring methodology: **[eufirst.ai/methodology](https://eufirst.ai/methodology)**
 
 ---
 
@@ -386,7 +378,7 @@ For our scoring methodology: **[eufirst.ai/methodology](https://eufirst.ai/metho
 ---
 
 <p align="center">
-  <sub>EU First is an independent project. Not affiliated with the European Union or any listed company.</sub><br>
+  <sub>Independent project. Not affiliated with the European Union or any listed company.</sub><br>
   <sub>Built in Darmstadt, Germany 🇩🇪</sub>
 </p>
 
